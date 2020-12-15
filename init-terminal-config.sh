@@ -1,4 +1,4 @@
 git -C ~/terminal-config/ pull
 
-sh ~/terminal-config/terminal-config.sh
+source ~/terminal-config/terminal-config.sh
 

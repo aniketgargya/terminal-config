@@ -1,2 +1,2 @@
-echo "sh ~/terminal-config/init-terminal-config.sh" >> $1
+echo "source ~/terminal-config/init-terminal-config.sh" >> $1
 
