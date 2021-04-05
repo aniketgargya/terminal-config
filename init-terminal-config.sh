@@ -1,6 +1,5 @@
-echo "~~~~ Starting Terminal Config Pull ~~~~"
+echo "~~~~ Starting Terminal Config ~~~~"
 timeout 10s git -C ~/terminal-config/ pull
-echo "~~~~~ Ending Terminal Config Pull ~~~~~"
-
 source ~/terminal-config/terminal-config.sh
+echo "~~~~~ Ending Terminal Config ~~~~~"
 
